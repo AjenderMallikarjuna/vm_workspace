@@ -1,0 +1,1 @@
+cmd_arch/arm/built-in.a := echo >/dev/null; rm -f arch/arm/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST arch/arm/built-in.a arch/arm/kernel/built-in.a arch/arm/mm/built-in.a arch/arm/common/built-in.a arch/arm/probes/built-in.a arch/arm/net/built-in.a arch/arm/crypto/built-in.a

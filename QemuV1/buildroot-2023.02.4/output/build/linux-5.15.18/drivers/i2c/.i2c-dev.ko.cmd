@@ -1,0 +1,1 @@
+cmd_drivers/i2c/i2c-dev.ko := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -r -EL --build-id=sha1  -T scripts/module.lds -o drivers/i2c/i2c-dev.ko drivers/i2c/i2c-dev.o drivers/i2c/i2c-dev.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/bus/built-in.a := echo >/dev/null; rm -f drivers/bus/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/bus/built-in.a drivers/bus/simple-pm-bus.o

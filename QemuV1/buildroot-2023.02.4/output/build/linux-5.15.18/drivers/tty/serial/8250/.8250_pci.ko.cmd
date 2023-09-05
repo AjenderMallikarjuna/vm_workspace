@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/8250/8250_pci.ko := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -r -EL --build-id=sha1  -T scripts/module.lds -o drivers/tty/serial/8250/8250_pci.ko drivers/tty/serial/8250/8250_pci.o drivers/tty/serial/8250/8250_pci.mod.o;  true

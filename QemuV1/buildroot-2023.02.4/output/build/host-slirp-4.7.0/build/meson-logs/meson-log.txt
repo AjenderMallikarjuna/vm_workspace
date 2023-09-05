@@ -1,0 +1,226 @@
+Build started at 2023-09-03T19:11:08.135866
+Main binary: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/python3
+Build Options: -Dstrip=true -Dprefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host -Dlibdir=lib -Dlocalstatedir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/var -Dsysconfdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/etc -Dbuildtype=release -Ddefault_library=shared -Dwrap_mode=nodownload
+Python system: Linux
+The Meson build system
+Version: 1.0.0
+Source dir: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0
+Build dir: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build
+Build type: native build
+Project name: libslirp
+Project version: 4.7.0
+-----
+Detecting compiler via: /usr/bin/gcc --version
+compiler returned <Popen: returncode: 0 args: ['/usr/bin/gcc', '--version']>
+compiler stdout:
+gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+compiler stderr:
+
+Running command: /usr/bin/gcc -E -dM -
+-----
+Detecting linker via: /usr/bin/gcc -Wl,--version -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -O2 -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include
+linker returned <Popen: returncode: 0 args: ['/usr/bin/gcc', '-Wl,--version', '-L/home/ajend...>
+linker stdout:
+GNU ld (GNU Binutils for Ubuntu) 2.38
+Copyright (C) 2022 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) a later version.
+This program has absolutely no warranty.
+
+linker stderr:
+collect2 version 11.4.0
+/usr/bin/ld -plugin /usr/lib/gcc/x86_64-linux-gnu/11/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/11/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYtsWf4.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/11/crtbeginS.o -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/11/../../.. --version -rpath /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/11/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crtn.o
+
+Sanity testing C compiler: /usr/bin/gcc
+Is cross compiler: False.
+Sanity check compiler command line: /usr/bin/gcc sanitycheckc.c -o sanitycheckc.exe -O2 -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include -D_FILE_OFFSET_BITS=64 -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command:  /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: /usr/bin/gcc (gcc 11.4.0 "gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0")
+C linker for the host machine: /usr/bin/gcc ld.bfd 2.38
+detecting CPU family based on trial='x86_64'
+-----
+Detecting compiler via: /usr/bin/gcc --version
+compiler returned <Popen: returncode: 0 args: ['/usr/bin/gcc', '--version']>
+compiler stdout:
+gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+compiler stderr:
+
+Running command: /usr/bin/gcc -E -dM -
+-----
+Detecting linker via: /usr/bin/gcc -Wl,--version -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -O2 -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include
+linker returned <Popen: returncode: 0 args: ['/usr/bin/gcc', '-Wl,--version', '-L/home/ajend...>
+linker stdout:
+GNU ld (GNU Binutils for Ubuntu) 2.38
+Copyright (C) 2022 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) a later version.
+This program has absolutely no warranty.
+
+linker stderr:
+collect2 version 11.4.0
+/usr/bin/ld -plugin /usr/lib/gcc/x86_64-linux-gnu/11/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/11/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjSHpGe.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/11/crtbeginS.o -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/11/../../.. --version -rpath /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/11/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crtn.o
+
+Sanity testing C compiler: /usr/bin/gcc
+Is cross compiler: False.
+Sanity check compiler command line: /usr/bin/gcc sanitycheckc.c -o sanitycheckc.exe -O2 -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include -D_FILE_OFFSET_BITS=64 -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command:  /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: /usr/bin/gcc (gcc 11.4.0 "gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0")
+C linker for the build machine: /usr/bin/gcc ld.bfd 2.38
+detecting CPU family based on trial='x86_64'
+detecting CPU family based on trial='x86_64'
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Running command: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build-aux/git-version-gen /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/.tarball-version
+--- stdout ---
+UNKNOWN-dirty
+--- stderr ---
+
+
+Pkg-config binary for 1 is not cached.
+Pkg-config binary for 1 specified from cross file, native file, or env var as ['/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config']
+Found pkg-config: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config (1.6.3)
+Determining dependency 'glib-2.0' with pkg-config executable '/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config'
+env[PKG_CONFIG_SYSROOT_DIR]: /
+env[PKG_CONFIG_ALLOW_SYSTEM_CFLAGS]: 1
+env[PKG_CONFIG_ALLOW_SYSTEM_LIBS]: 1
+env[PKG_CONFIG]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config
+env[PKG_CONFIG_LIBDIR]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/pkgconfig:/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/share/pkgconfig
+env[PKG_CONFIG_PATH]: 
+Called `/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config --modversion glib-2.0` -> 0
+2.72.3
+env[PKG_CONFIG_SYSROOT_DIR]: /
+env[PKG_CONFIG_ALLOW_SYSTEM_CFLAGS]: 1
+env[PKG_CONFIG_ALLOW_SYSTEM_LIBS]: 1
+env[PKG_CONFIG]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config
+env[PKG_CONFIG_LIBDIR]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/pkgconfig:/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/share/pkgconfig
+env[PKG_CONFIG_PATH]: 
+Called `/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config --cflags glib-2.0` -> 0
+-I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include/glib-2.0 -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/glib-2.0/include -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include
+env[PKG_CONFIG_SYSROOT_DIR]: /
+env[PKG_CONFIG_ALLOW_SYSTEM_CFLAGS]: 1
+env[PKG_CONFIG_ALLOW_SYSTEM_LIBS]: 1
+env[PKG_CONFIG]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config
+env[PKG_CONFIG_LIBDIR]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/pkgconfig:/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/share/pkgconfig
+env[PKG_CONFIG_PATH]: 
+Called `/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config --libs glib-2.0` -> 0
+-L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -lglib-2.0
+env[PKG_CONFIG_SYSROOT_DIR]: /
+env[PKG_CONFIG_ALLOW_SYSTEM_CFLAGS]: 1
+env[PKG_CONFIG_ALLOW_SYSTEM_LIBS]: 1
+env[PKG_CONFIG]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/pkg-config
+env[PKG_CONFIG_LIBDIR]: /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/pkgconfig:/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/share/pkgconfig
+env[PKG_CONFIG_PATH]: 
+detecting CPU family based on trial='x86_64'
+Running compile:
+Working directory:  /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpm__vm9o5
+Command line:  /usr/bin/gcc -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpm__vm9o5/testfile.c -o /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpm__vm9o5/output.exe -O2 -D_FILE_OFFSET_BITS=64 -O0 -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib 
+
+Code:
+ #include<stdio.h>
+        
+        int main(void) {
+            printf("%ld\n", (long)(sizeof(void *)));
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Program stdout:
+
+8
+
+Program stderr:
+
+
+Running compile:
+Working directory:  /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpgn88x0lc
+Command line:  /usr/bin/gcc -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpgn88x0lc/testfile.c -o /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpgn88x0lc/output.obj -c -O2 -D_FILE_OFFSET_BITS=64 -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/x86_64-linux-gnu/11/
+programs: =/usr/lib/gcc/x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/bin/x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/bin/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/lib/x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/lib/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/11/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib/:/lib/x86_64-linux-gnu/11/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/11/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/lib/:/usr/lib/gcc/x86_64-linux-gnu/11/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+Run-time dependency glib-2.0 found: YES 2.72.3
+Running compile:
+Working directory:  /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpdkl88vzb
+Command line:  /usr/bin/gcc -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpdkl88vzb/testfile.c -o /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpdkl88vzb/output.obj -c -O2 -D_FILE_OFFSET_BITS=64 -O0 -std=gnu99 
+
+Code:
+ 
+        #include <valgrind/valgrind.h>
+Compiler stdout:
+ 
+Compiler stderr:
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpdkl88vzb/testfile.c:2:18: fatal error: valgrind/valgrind.h: No such file or directory
+    2 |         #include <valgrind/valgrind.h>
+      |                  ^~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+
+Check usable header "valgrind/valgrind.h" : NO 
+Running compile:
+Working directory:  /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpybnvhc91
+Command line:  /usr/bin/gcc -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -I/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpybnvhc91/testfile.c -o /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build/meson-private/tmpybnvhc91/output.exe -O2 -D_FILE_OFFSET_BITS=64 -O0 -Wl,--fatal-warnings -Wl,--version-script,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/src/libslirp.map -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib 
+
+Code:
+ int main(void) { return 0; }
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports link arguments -Wl,--version-script,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/src/libslirp.map: YES 
+Configuring libslirp-version.h using configuration
+detecting CPU family based on trial='x86_64'
+detecting CPU family based on trial='x86_64'
+Adding test "ping"
+Build targets in project: 2
+
+libslirp 4.7.0
+
+  User defined options
+    buildtype      : release
+    default_library: shared
+    libdir         : lib
+    localstatedir  : /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/var
+    prefix         : /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+    strip          : true
+    sysconfdir     : /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/etc
+    wrap_mode      : nodownload
+
+Found ninja-1.11.1.git.kitware.jobserver-1 at /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/ninja
+detecting CPU family based on trial='x86_64'
+detecting CPU family based on trial='x86_64'
+detecting CPU family based on trial='x86_64'
+detecting CPU family based on trial='x86_64'

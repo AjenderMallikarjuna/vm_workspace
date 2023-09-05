@@ -1,0 +1,34 @@
+!<thin>
+//                                              264       `
+mii.o/
+loopback.o/
+phy/mdio-boardinfo.o/
+phy/mdio_devres.o/
+phy/phy.o/
+phy/phy-c45.o/
+phy/phy-core.o/
+phy/phy_device.o/
+phy/linkmode.o/
+phy/mdio_bus.o/
+phy/mdio_device.o/
+phy/swphy.o/
+phy/fixed_phy.o/
+mdio/fwnode_mdio.o/
+mdio/of_mdio.o/
+ethernet/realtek/8139cp.o/
+/0              0           0     0     644     9844      `
+/7              0           0     0     644     7000      `
+/19             0           0     0     644     2772      `
+/41             0           0     0     644     4032      `
+/60             0           0     0     644     26324     `
+/71             0           0     0     644     11456     `
+/86             0           0     0     644     18292     `
+/102            0           0     0     644     62964     `
+/120            0           0     0     644     2284      `
+/136            0           0     0     644     38960     `
+/152            0           0     0     644     5904      `
+/171            0           0     0     644     2956      `
+/184            0           0     0     644     9068      `
+/201            0           0     0     644     3972      `
+/221            0           0     0     644     12636     `
+/237            0           0     0     644     25936     `

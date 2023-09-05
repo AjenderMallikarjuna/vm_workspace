@@ -1,0 +1,22 @@
+unwind-arm.o: ../../../libgcc/config/arm/unwind-arm.c unwind.h \
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-initial-11.4.0/build/gcc/include/unwind-arm-common.h \
+ ../../../libgcc/unwind-arm-common.inc ../.././gcc/tconfig.h \
+ ../.././gcc/auto-host.h ../../../libgcc/../include/ansidecl.h \
+ ../../../libgcc/../gcc/tsystem.h \
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-initial-11.4.0/build/gcc/include/stddef.h \
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-initial-11.4.0/build/gcc/include/float.h \
+ ../../../libgcc/../include/filenames.h \
+ ../../../libgcc/../include/hashtab.h \
+ ../../../libgcc/../include/ansidecl.h
+unwind.h:
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-initial-11.4.0/build/gcc/include/unwind-arm-common.h:
+../../../libgcc/unwind-arm-common.inc:
+../.././gcc/tconfig.h:
+../.././gcc/auto-host.h:
+../../../libgcc/../include/ansidecl.h:
+../../../libgcc/../gcc/tsystem.h:
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-initial-11.4.0/build/gcc/include/stddef.h:
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-initial-11.4.0/build/gcc/include/float.h:
+../../../libgcc/../include/filenames.h:
+../../../libgcc/../include/hashtab.h:
+../../../libgcc/../include/ansidecl.h:

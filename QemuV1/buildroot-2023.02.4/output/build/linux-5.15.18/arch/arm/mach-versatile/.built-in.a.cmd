@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-versatile/built-in.a := echo >/dev/null; rm -f arch/arm/mach-versatile/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST arch/arm/mach-versatile/built-in.a arch/arm/mach-versatile/versatile_dt.o

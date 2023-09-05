@@ -1,0 +1,1 @@
+cmd_fs/ramfs/built-in.a := echo >/dev/null; rm -f fs/ramfs/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST fs/ramfs/built-in.a fs/ramfs/inode.o fs/ramfs/file-mmu.o

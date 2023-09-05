@@ -1,0 +1,10 @@
+libsocketcan,./usr/include/libsocketcan.h
+libsocketcan,./usr/include/can_netlink.h
+libsocketcan,./usr/lib/pkgconfig/libsocketcan.pc
+libsocketcan,./usr/lib/libsocketcan.so.2.3.1
+libsocketcan,./usr/lib/libsocketcan.so.2
+libsocketcan,./usr/lib/libsocketcan.so
+libsocketcan,./usr/lib/libsocketcan.la
+libsocketcan,./usr/share/doc/libsocketcan/INSTALL
+libsocketcan,./usr/share/doc/libsocketcan/LICENSE
+libsocketcan,./usr/share/doc/libsocketcan/README

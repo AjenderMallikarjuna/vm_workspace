@@ -1,0 +1,8 @@
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0001-networking-libiproute-use-linux-if_packet.h-instead-.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0002-Makefile.flags-strip-non-l-arguments-returned-by-pkg.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0003-libbb-sockaddr2str-ensure-only-printable-characters-.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0004-nslookup-sanitize-all-printed-strings-with-printable.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0005-seedrng-fix-for-glibc-2.24-not-providing-getrandom.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0006-seedrng-fix-for-glibc-2.24-not-providing-random-head.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0007-seedrng-fix-getrandom-detection-for-non-glibc-libc.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/busybox/0008-shell-fix-SIGWINCH-and-SIGCHLD-in-hush-interrupting-.patch

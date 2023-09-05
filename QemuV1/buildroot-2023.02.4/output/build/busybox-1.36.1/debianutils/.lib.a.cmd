@@ -1,0 +1,1 @@
+cmd_debianutils/lib.a := rm -f debianutils/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs debianutils/lib.a debianutils/pipe_progress.o debianutils/run_parts.o debianutils/start_stop_daemon.o debianutils/which.o

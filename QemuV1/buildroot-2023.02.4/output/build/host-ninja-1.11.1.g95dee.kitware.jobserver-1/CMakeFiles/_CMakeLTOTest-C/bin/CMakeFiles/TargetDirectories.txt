@@ -1,0 +1,4 @@
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-ninja-1.11.1.g95dee.kitware.jobserver-1/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-ninja-1.11.1.g95dee.kitware.jobserver-1/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-ninja-1.11.1.g95dee.kitware.jobserver-1/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-ninja-1.11.1.g95dee.kitware.jobserver-1/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir

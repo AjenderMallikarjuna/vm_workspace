@@ -1,0 +1,10 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+exec_prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+libdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib
+includedir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include
+
+Name: blkid
+Description: Block device id library
+Version: 2.38.0
+Cflags: -I${includedir}/blkid
+Libs: -L${libdir} -lblkid

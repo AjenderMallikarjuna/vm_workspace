@@ -1,0 +1,1 @@
+cmd_virt/built-in.a := echo >/dev/null; rm -f virt/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST virt/built-in.a virt/lib/built-in.a

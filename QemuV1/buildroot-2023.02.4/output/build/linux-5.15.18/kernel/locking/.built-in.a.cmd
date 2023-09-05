@@ -1,0 +1,1 @@
+cmd_kernel/locking/built-in.a := echo >/dev/null; rm -f kernel/locking/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST kernel/locking/built-in.a kernel/locking/mutex.o kernel/locking/semaphore.o kernel/locking/rwsem.o kernel/locking/percpu-rwsem.o kernel/locking/rtmutex_api.o

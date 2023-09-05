@@ -1,0 +1,1 @@
+cmd_archival/lib.a := rm -f archival/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs archival/lib.a archival/ar.o archival/bbunzip.o archival/chksum_and_xwrite_tar_header.o archival/cpio.o archival/gzip.o archival/lzop.o archival/tar.o archival/unzip.o

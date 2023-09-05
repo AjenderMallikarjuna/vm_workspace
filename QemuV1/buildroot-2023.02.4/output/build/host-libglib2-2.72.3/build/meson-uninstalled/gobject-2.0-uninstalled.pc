@@ -1,0 +1,12 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3/build
+includedir=${prefix}/include
+libdir=${prefix}/lib
+srcdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3
+
+Name: GObject
+Description: GLib Type, Object, Parameter and Signal Library
+Version: 2.72.3
+Requires: glib-2.0
+Requires.private: libffi >=  3.0.0
+Libs: -L${prefix}/gobject -lgobject-2.0
+Cflags: -I${prefix}/gobject -I${srcdir}/gobject -I${prefix} -I${srcdir} -I${prefix}/glib -I${srcdir}/glib

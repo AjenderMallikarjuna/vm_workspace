@@ -1,0 +1,2 @@
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/meson/0001-Prefer-ext-static-libs-when-default-library-static.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/meson/0002-mesonbuild-dependencies-base.py-add-pkg_config_stati.patch

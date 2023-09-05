@@ -1,0 +1,7 @@
+pr-support.o: ../../../libgcc/config/arm/pr-support.c \
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/arm-buildroot-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ unwind.h \
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-final-11.4.0/build/gcc/include/unwind-arm-common.h
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/arm-buildroot-linux-gnueabi/sysroot/usr/include/stdc-predef.h:
+unwind.h:
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-final-11.4.0/build/gcc/include/unwind-arm-common.h:

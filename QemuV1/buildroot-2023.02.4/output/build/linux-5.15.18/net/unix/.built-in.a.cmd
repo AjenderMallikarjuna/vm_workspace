@@ -1,0 +1,1 @@
+cmd_net/unix/built-in.a := echo >/dev/null; rm -f net/unix/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST net/unix/built-in.a net/unix/af_unix.o net/unix/garbage.o net/unix/sysctl_net_unix.o net/unix/scm.o

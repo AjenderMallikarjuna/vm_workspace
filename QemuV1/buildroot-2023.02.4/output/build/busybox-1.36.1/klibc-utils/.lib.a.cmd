@@ -1,0 +1,1 @@
+cmd_klibc-utils/lib.a := rm -f klibc-utils/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs klibc-utils/lib.a klibc-utils/nuke.o klibc-utils/resume.o

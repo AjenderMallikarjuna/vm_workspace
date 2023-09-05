@@ -1,0 +1,1 @@
+cmd_security/built-in.a := echo >/dev/null; rm -f security/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST security/built-in.a security/commoncap.o security/min_addr.o

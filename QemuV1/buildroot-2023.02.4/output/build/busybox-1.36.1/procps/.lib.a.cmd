@@ -1,0 +1,1 @@
+cmd_procps/lib.a := rm -f procps/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs procps/lib.a procps/free.o procps/fuser.o procps/kill.o procps/lsof.o procps/pidof.o procps/ps.o procps/sysctl.o procps/top.o procps/uptime.o procps/watch.o

@@ -1,0 +1,8 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3/build
+includedir=${prefix}/include
+srcdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3
+
+Name: GIO unix specific APIs
+Description: unix specific headers for glib I/O library
+Version: 2.72.3
+Requires: gobject-2.0, gio-2.0

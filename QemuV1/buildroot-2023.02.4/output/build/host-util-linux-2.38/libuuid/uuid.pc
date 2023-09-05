@@ -1,0 +1,11 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+exec_prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+libdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib
+includedir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.38.0
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

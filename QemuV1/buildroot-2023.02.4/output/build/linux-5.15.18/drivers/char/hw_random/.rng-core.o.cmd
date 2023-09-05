@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/rng-core.o := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -EL   -r -o drivers/char/hw_random/rng-core.o drivers/char/hw_random/core.o

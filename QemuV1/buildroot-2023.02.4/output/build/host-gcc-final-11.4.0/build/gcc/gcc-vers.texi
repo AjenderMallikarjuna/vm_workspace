@@ -1,0 +1,5 @@
+@set version-GCC 11.4.0
+@clear DEVELOPMENT
+@set srcdir /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-gcc-final-11.4.0/build/gcc/../../gcc
+@set VERSION_PACKAGE (Buildroot -ga6cd16e-dirty) 
+@set BUGURL @uref{http://bugs.buildroot.net/}

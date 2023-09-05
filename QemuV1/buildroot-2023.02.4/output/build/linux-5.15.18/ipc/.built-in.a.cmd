@@ -1,0 +1,1 @@
+cmd_ipc/built-in.a := echo >/dev/null; rm -f ipc/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST ipc/built-in.a ipc/util.o ipc/msgutil.o ipc/msg.o ipc/sem.o ipc/shm.o ipc/syscall.o ipc/ipc_sysctl.o ipc/namespace.o

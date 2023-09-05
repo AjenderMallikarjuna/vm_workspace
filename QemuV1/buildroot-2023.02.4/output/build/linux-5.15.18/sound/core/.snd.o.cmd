@@ -1,0 +1,1 @@
+cmd_sound/core/snd.o := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -EL   -r -o sound/core/snd.o sound/core/sound.o sound/core/init.o sound/core/memory.o sound/core/control.o sound/core/misc.o sound/core/device.o sound/core/info.o sound/core/vmaster.o

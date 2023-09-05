@@ -1,0 +1,1 @@
+cmd_networking/udhcp/lib.a := rm -f networking/udhcp/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs networking/udhcp/lib.a networking/udhcp/arpping.o networking/udhcp/common.o networking/udhcp/dhcpc.o networking/udhcp/domain_codec.o networking/udhcp/packet.o networking/udhcp/signalpipe.o networking/udhcp/socket.o

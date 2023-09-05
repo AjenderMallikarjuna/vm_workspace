@@ -1,0 +1,1 @@
+cmd_net/sched/built-in.a := echo >/dev/null; rm -f net/sched/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST net/sched/built-in.a net/sched/sch_generic.o net/sched/sch_mq.o net/sched/sch_frag.o

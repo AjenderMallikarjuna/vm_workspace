@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/built-in.a := echo >/dev/null; rm -f drivers/video/fbdev/omap2/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/video/fbdev/omap2/built-in.a drivers/video/fbdev/omap2/omapfb/built-in.a

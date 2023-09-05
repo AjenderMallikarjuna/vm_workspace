@@ -1,0 +1,1 @@
+cmd_loginutils/lib.a := rm -f loginutils/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs loginutils/lib.a loginutils/addgroup.o loginutils/adduser.o loginutils/cryptpw.o loginutils/deluser.o loginutils/getty.o loginutils/login.o loginutils/passwd.o loginutils/su.o loginutils/sulogin.o loginutils/vlock.o

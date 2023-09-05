@@ -1,0 +1,1 @@
+cmd_kernel/power/built-in.a := echo >/dev/null; rm -f kernel/power/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST kernel/power/built-in.a kernel/power/qos.o kernel/power/main.o kernel/power/console.o kernel/power/process.o kernel/power/suspend.o kernel/power/poweroff.o

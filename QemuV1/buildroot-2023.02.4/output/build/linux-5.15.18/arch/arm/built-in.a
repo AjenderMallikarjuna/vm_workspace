@@ -1,0 +1,100 @@
+!<thin>
+//                                              810       `
+kernel/elf.o/
+kernel/entry-common.o/
+kernel/irq.o/
+kernel/opcodes.o/
+kernel/process.o/
+kernel/ptrace.o/
+kernel/reboot.o/
+kernel/io.o/
+kernel/setup.o/
+kernel/signal.o/
+kernel/sigreturn_codes.o/
+kernel/stacktrace.o/
+kernel/sys_arm.o/
+kernel/time.o/
+kernel/traps.o/
+kernel/atags_parse.o/
+kernel/entry-armv.o/
+kernel/bugs.o/
+kernel/armksyms.o/
+kernel/module.o/
+kernel/module-plts.o/
+kernel/bios32.o/
+kernel/isa.o/
+kernel/sleep.o/
+kernel/suspend.o/
+kernel/unwind.o/
+kernel/devtree.o/
+kernel/phys2virt.o/
+mm/extable.o/
+mm/fault.o/
+mm/init.o/
+mm/iomap.o/
+mm/dma-mapping.o/
+mm/fault-armv.o/
+mm/flush.o/
+mm/idmap.o/
+mm/ioremap.o/
+mm/mmap.o/
+mm/pgd.o/
+mm/mmu.o/
+mm/pageattr.o/
+mm/proc-syms.o/
+mm/alignment.o/
+mm/abort-ev5tj.o/
+mm/pabort-legacy.o/
+mm/copypage-v4wb.o/
+mm/tlb-v4wbi.o/
+mm/proc-arm926.o/
+common/firmware.o/
+/0              0           0     0     644     2744      `
+/14             0           0     0     644     20520     `
+/37             0           0     0     644     2616      `
+/51             0           0     0     644     1728      `
+/69             0           0     0     644     8464      `
+/87             0           0     0     644     6876      `
+/104            0           0     0     644     3228      `
+/121            0           0     0     644     3072      `
+/134            0           0     0     644     20544     `
+/150            0           0     0     644     6360      `
+/167            0           0     0     644     864       `
+/193            0           0     0     644     1596      `
+/214            0           0     0     644     1196      `
+/232            0           0     0     644     2084      `
+/247            0           0     0     644     11740     `
+/263            0           0     0     644     5068      `
+/285            0           0     0     644     7948      `
+/306            0           0     0     644     1512      `
+/321            0           0     0     644     22408     `
+/340            0           0     0     644     5792      `
+/357            0           0     0     644     3952      `
+/379            0           0     0     644     8572      `
+/396            0           0     0     644     2096      `
+/410            0           0     0     644     1636      `
+/426            0           0     0     644     2796      `
+/444            0           0     0     644     6148      `
+/461            0           0     0     644     4372      `
+/479            0           0     0     644     1388      `
+/499            0           0     0     644     1204      `
+/513            0           0     0     644     9716      `
+/525            0           0     0     644     4704      `
+/536            0           0     0     644     3328      `
+/548            0           0     0     644     15144     `
+/566            0           0     0     644     3992      `
+/583            0           0     0     644     3164      `
+/595            0           0     0     644     3404      `
+/607            0           0     0     644     8488      `
+/621            0           0     0     644     2568      `
+/632            0           0     0     644     2372      `
+/642            0           0     0     644     29668     `
+/652            0           0     0     644     2392      `
+/667            0           0     0     644     4404      `
+/683            0           0     0     644     13208     `
+/699            0           0     0     644     848       `
+/717            0           0     0     644     704       `
+/737            0           0     0     644     2184      `
+/757            0           0     0     644     964       `
+/773            0           0     0     644     5504      `
+/791            0           0     0     644     1004      `

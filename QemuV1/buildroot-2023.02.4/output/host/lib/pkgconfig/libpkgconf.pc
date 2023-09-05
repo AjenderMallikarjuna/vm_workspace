@@ -1,0 +1,11 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: libpkgconf
+Description: a library for accessing and manipulating development framework configuration
+URL: http://github.com/pkgconf/pkgconf
+Version: 1.6.3
+CFlags: -I${includedir}/pkgconf
+Libs: -L${libdir} -lpkgconf

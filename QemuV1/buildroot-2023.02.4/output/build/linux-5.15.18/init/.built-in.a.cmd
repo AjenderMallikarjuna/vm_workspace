@@ -1,0 +1,1 @@
+cmd_init/built-in.a := echo >/dev/null; rm -f init/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST init/built-in.a init/main.o init/version.o init/do_mounts.o init/noinitramfs.o init/calibrate.o init/init_task.o

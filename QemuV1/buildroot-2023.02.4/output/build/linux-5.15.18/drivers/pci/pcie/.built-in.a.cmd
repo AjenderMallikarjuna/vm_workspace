@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/built-in.a := echo >/dev/null; rm -f drivers/pci/pcie/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/pci/pcie/built-in.a drivers/pci/pcie/aspm.o

@@ -1,0 +1,11 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3/build
+includedir=${prefix}/include
+libdir=${prefix}/lib
+srcdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3
+
+Name: GThread
+Description: Thread support for GLib
+Version: 2.72.3
+Requires: glib-2.0
+Libs: -L${prefix}/gthread -lgthread-2.0 -pthread
+Cflags: -I${prefix}/gthread -I${srcdir}/gthread -I${prefix} -I${srcdir} -I${prefix}/glib -I${srcdir}/glib -pthread

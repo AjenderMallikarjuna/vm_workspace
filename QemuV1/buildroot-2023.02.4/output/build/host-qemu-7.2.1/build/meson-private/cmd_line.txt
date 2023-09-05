@@ -1,0 +1,38 @@
+[options]
+interp_prefix = /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/arm-buildroot-linux-gnueabi/sysroot
+alsa = disabled
+bpf = disabled
+bzip2 = disabled
+coreaudio = disabled
+curl = disabled
+dbus_display = disabled
+docs = disabled
+dsound = disabled
+jack = disabled
+libssh = disabled
+linux_aio = disabled
+linux_io_uring = disabled
+netmap = disabled
+oss = disabled
+pa = disabled
+sdl = disabled
+selinux = disabled
+vde = disabled
+vhost_user_blk_server = disabled
+virtiofsd = disabled
+vnc_jpeg = disabled
+png = disabled
+vnc_sasl = disabled
+slirp = enabled
+tools = enabled
+guest_agent = disabled
+virtfs = disabled
+cap_ng = disabled
+libusb = disabled
+fdt = enabled
+vfio_user_server = disabled
+prefix = /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+
+[properties]
+native_file = ['/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-qemu-7.2.1/build/config-meson.cross']
+

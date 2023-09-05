@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -w -O3 -DNDEBUG -L/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib -Wl,-rpath,/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib CMakeFiles/curltest.dir/curltest.c.o -o curltest  lib/libcmcurl.a -ldl ../cmnghttp2/libcmnghttp2.a ../cmzlib/libcmzlib.a 

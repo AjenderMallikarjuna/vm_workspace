@@ -1,0 +1,9 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/libslirp.so.0.4.0
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include/slirp/libslirp.h
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include/slirp/libslirp-version.h
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/pkgconfig/slirp.pc
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/libslirp.so.0
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/libslirp.so
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/include/slirp

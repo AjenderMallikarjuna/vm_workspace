@@ -1,0 +1,11 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0/build
+includedir=${prefix}/include
+libdir=${prefix}/lib
+srcdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-slirp-4.7.0
+
+Name: slirp
+Description: User-space network stack
+Version: 4.7.0
+Requires: glib-2.0
+Libs: -L${prefix} -lslirp
+Cflags: -I${prefix} -I${srcdir}

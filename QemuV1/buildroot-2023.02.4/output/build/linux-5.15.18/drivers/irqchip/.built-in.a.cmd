@@ -1,0 +1,1 @@
+cmd_drivers/irqchip/built-in.a := echo >/dev/null; rm -f drivers/irqchip/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/irqchip/built-in.a drivers/irqchip/irqchip.o drivers/irqchip/irq-vic.o drivers/irqchip/irq-versatile-fpga.o

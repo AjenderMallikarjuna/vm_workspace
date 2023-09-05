@@ -1,0 +1,1 @@
+cmd_editors/lib.a := rm -f editors/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs editors/lib.a editors/awk.o editors/cmp.o editors/diff.o editors/patch.o editors/sed.o editors/vi.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/sunxi/sun6i-csi/built-in.a := echo >/dev/null; rm -f drivers/media/platform/sunxi/sun6i-csi/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/media/platform/sunxi/sun6i-csi/built-in.a 

@@ -1,0 +1,1 @@
+cmd_sysklogd/lib.a := rm -f sysklogd/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs sysklogd/lib.a sysklogd/klogd.o sysklogd/syslogd_and_logger.o

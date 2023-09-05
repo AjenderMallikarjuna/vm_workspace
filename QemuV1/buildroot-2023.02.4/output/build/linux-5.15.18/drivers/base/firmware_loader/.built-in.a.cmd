@@ -1,0 +1,1 @@
+cmd_drivers/base/firmware_loader/built-in.a := echo >/dev/null; rm -f drivers/base/firmware_loader/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/base/firmware_loader/built-in.a drivers/base/firmware_loader/main.o drivers/base/firmware_loader/builtin/built-in.a

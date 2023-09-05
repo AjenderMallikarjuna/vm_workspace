@@ -1,0 +1,44 @@
+!<thin>
+//                                              446       `
+console/dummycon.o/
+backlight/backlight.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/fbcon.o/
+fbdev/core/bitblit.o/
+fbdev/core/softcursor.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/amba-clcd.o/
+display_timing.o/
+videomode.o/
+of_display_timing.o/
+of_videomode.o/
+/0              0           0     0     644     2580      `
+/20             0           0     0     644     16804     `
+/43             0           0     0     644     3632      `
+/68             0           0     0     644     2756      `
+/92             0           0     0     644     24144     `
+/112            0           0     0     644     15100     `
+/132            0           0     0     644     8000      `
+/153            0           0     0     644     8472      `
+/175            0           0     0     644     19956     `
+/196            0           0     0     644     4284      `
+/216            0           0     0     644     39636     `
+/236            0           0     0     644     5656      `
+/258            0           0     0     644     1792      `
+/283            0           0     0     644     5180      `
+/309            0           0     0     644     4072      `
+/335            0           0     0     644     3532      `
+/359            0           0     0     644     13956     `
+/378            0           0     0     644     1680      `
+/396            0           0     0     644     2096      `
+/409            0           0     0     644     5552      `
+/430            0           0     0     644     1928      `

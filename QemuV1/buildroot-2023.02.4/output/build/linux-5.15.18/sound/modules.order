@@ -1,0 +1,6 @@
+sound/core/snd.ko
+sound/core/snd-timer.ko
+sound/core/snd-pcm.ko
+sound/pci/ac97/snd-ac97-codec.ko
+sound/arm/snd-aaci.ko
+sound/ac97_bus.ko

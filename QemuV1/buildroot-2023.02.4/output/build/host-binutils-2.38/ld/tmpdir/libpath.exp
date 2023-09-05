@@ -1,0 +1,1 @@
+set libpath "=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/arm-buildroot-linux-gnueabi/lib =/usr/local/lib =/lib =/usr/lib"

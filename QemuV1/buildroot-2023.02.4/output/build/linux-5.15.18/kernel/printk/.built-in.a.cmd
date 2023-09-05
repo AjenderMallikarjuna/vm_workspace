@@ -1,0 +1,1 @@
+cmd_kernel/printk/built-in.a := echo >/dev/null; rm -f kernel/printk/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST kernel/printk/built-in.a kernel/printk/printk.o kernel/printk/printk_safe.o kernel/printk/printk_ringbuffer.o

@@ -1,0 +1,1 @@
+cmd_drivers/iommu/built-in.a := echo >/dev/null; rm -f drivers/iommu/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/iommu/built-in.a drivers/iommu/amd/built-in.a drivers/iommu/intel/built-in.a drivers/iommu/arm/built-in.a

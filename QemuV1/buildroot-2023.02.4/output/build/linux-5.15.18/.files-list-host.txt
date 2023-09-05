@@ -1,0 +1,2 @@
+linux,./bin/linux-dtc
+linux,./bin/dtc

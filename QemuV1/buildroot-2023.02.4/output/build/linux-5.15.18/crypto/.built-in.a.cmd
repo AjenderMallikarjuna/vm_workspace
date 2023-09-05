@@ -1,0 +1,1 @@
+cmd_crypto/built-in.a := echo >/dev/null; rm -f crypto/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST crypto/built-in.a crypto/api.o crypto/cipher.o crypto/compress.o crypto/memneq.o crypto/algapi.o crypto/scatterwalk.o crypto/proc.o crypto/ahash.o crypto/shash.o crypto/crc32c_generic.o

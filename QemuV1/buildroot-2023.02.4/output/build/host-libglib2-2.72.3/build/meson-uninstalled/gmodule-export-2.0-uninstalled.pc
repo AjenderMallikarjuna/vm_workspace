@@ -1,0 +1,10 @@
+prefix=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3/build
+includedir=${prefix}/include
+libdir=${prefix}/lib
+srcdir=/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/host-libglib2-2.72.3
+
+Name: GModule
+Description: Dynamic module loader for GLib
+Version: 2.72.3
+Requires: gmodule-no-export-2.0, glib-2.0
+Libs: -Wl,--export-dynamic

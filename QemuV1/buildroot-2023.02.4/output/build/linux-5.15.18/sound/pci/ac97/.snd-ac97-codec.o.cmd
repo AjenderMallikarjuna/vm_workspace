@@ -1,0 +1,1 @@
+cmd_sound/pci/ac97/snd-ac97-codec.o := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -EL   -r -o sound/pci/ac97/snd-ac97-codec.o sound/pci/ac97/ac97_codec.o sound/pci/ac97/ac97_pcm.o sound/pci/ac97/ac97_proc.o

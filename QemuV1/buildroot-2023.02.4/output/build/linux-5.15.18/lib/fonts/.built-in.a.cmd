@@ -1,0 +1,1 @@
+cmd_lib/fonts/built-in.a := echo >/dev/null; rm -f lib/fonts/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST lib/fonts/built-in.a lib/fonts/fonts.o lib/fonts/font_8x8.o lib/fonts/font_8x16.o

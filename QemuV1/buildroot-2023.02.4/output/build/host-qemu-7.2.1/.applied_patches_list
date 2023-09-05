@@ -1,0 +1,4 @@
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/qemu/0001-tests-fp-disable-fp-bench-build-by-default.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/qemu/0002-softmmu-qemu-seccomp.c-add-missing-header-for-CLONE_.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/qemu/0003-Revert-linux-user-add-more-compat-ioctl-definitions.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/qemu/0004-Revert-linux-user-fix-compat-with-glibc-2.36-sys-mou.patch

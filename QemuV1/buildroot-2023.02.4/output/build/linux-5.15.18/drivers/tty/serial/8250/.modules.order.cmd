@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/8250/modules.order := {   echo drivers/tty/serial/8250/8250.ko;   echo drivers/tty/serial/8250/8250_base.ko;   echo drivers/tty/serial/8250/8250_pci.ko;   echo drivers/tty/serial/8250/8250_exar.ko; :; } | awk '!x[$$0]++' - > drivers/tty/serial/8250/modules.order

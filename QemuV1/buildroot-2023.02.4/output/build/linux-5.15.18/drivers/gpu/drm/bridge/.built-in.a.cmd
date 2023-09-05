@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/built-in.a := echo >/dev/null; rm -f drivers/gpu/drm/bridge/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/gpu/drm/bridge/built-in.a drivers/gpu/drm/bridge/analogix/built-in.a drivers/gpu/drm/bridge/cadence/built-in.a drivers/gpu/drm/bridge/synopsys/built-in.a

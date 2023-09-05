@@ -1,0 +1,1 @@
+cmd_drivers/pps/built-in.a := echo >/dev/null; rm -f drivers/pps/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/pps/built-in.a drivers/pps/pps.o drivers/pps/kapi.o drivers/pps/sysfs.o drivers/pps/clients/built-in.a drivers/pps/generators/built-in.a

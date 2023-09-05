@@ -1,0 +1,1 @@
+cmd_drivers/net/mdio/built-in.a := echo >/dev/null; rm -f drivers/net/mdio/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/net/mdio/built-in.a drivers/net/mdio/fwnode_mdio.o drivers/net/mdio/of_mdio.o

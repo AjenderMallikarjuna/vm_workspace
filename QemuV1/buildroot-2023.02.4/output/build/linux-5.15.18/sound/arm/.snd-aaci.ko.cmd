@@ -1,0 +1,1 @@
+cmd_sound/arm/snd-aaci.ko := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -r -EL --build-id=sha1  -T scripts/module.lds -o sound/arm/snd-aaci.ko sound/arm/snd-aaci.o sound/arm/snd-aaci.mod.o;  true

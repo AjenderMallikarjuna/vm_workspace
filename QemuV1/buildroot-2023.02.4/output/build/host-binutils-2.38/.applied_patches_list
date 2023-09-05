@@ -1,0 +1,5 @@
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/binutils//2.38/0001-sh-conf.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/binutils//2.38/0002-poison-system-directories.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/binutils//2.38/0003-bfd-elf32-or1k-fix-building-with-gcc-version-5.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/binutils//2.38/0004-or1k-Avoid-R_OR1K_GOT16-signed-overflow-by-using-spe.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/binutils//2.38/0005-binutils-2.38-vs.-ppc32-linux-kernel.patch

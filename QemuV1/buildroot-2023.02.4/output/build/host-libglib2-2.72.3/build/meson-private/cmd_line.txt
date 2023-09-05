@@ -1,0 +1,21 @@
+[options]
+strip = true
+dtrace = false
+fam = false
+glib_debug = disabled
+libelf = disabled
+selinux = disabled
+systemtap = false
+xattr = false
+tests = false
+oss_fuzz = disabled
+prefix = /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host
+libdir = lib
+localstatedir = /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/var
+sysconfdir = /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/etc
+buildtype = release
+default_library = shared
+wrap_mode = nodownload
+
+[properties]
+

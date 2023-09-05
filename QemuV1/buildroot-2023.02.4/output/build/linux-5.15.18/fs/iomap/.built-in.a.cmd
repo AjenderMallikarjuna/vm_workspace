@@ -1,0 +1,1 @@
+cmd_fs/iomap/built-in.a := echo >/dev/null; rm -f fs/iomap/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST fs/iomap/built-in.a fs/iomap/trace.o fs/iomap/buffered-io.o fs/iomap/direct-io.o fs/iomap/fiemap.o fs/iomap/iter.o fs/iomap/seek.o fs/iomap/swapfile.o

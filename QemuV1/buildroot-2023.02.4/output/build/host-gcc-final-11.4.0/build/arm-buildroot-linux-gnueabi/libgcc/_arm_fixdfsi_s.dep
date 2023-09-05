@@ -1,0 +1,9 @@
+_arm_fixdfsi_s.o: ../../../libgcc/config/arm/lib1funcs.S \
+ /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/arm-buildroot-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ ../../../libgcc/config/arm/ieee754-df.S \
+ ../../../libgcc/config/arm/ieee754-sf.S \
+ ../../../libgcc/config/arm/bpabi.S
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/arm-buildroot-linux-gnueabi/sysroot/usr/include/stdc-predef.h:
+../../../libgcc/config/arm/ieee754-df.S:
+../../../libgcc/config/arm/ieee754-sf.S:
+../../../libgcc/config/arm/bpabi.S:

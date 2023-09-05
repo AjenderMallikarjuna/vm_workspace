@@ -1,0 +1,1 @@
+cmd_fs/devpts/built-in.a := echo >/dev/null; rm -f fs/devpts/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST fs/devpts/built-in.a fs/devpts/inode.o

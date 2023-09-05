@@ -1,0 +1,2 @@
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/pkgconf/0001-Only-prefix-with-the-sysroot-a-subset-of-variables.patch
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/package/pkgconf/0002-Revert-main-assume-modversion-insted-of-version-if-o.patch

@@ -1,0 +1,1 @@
+cmd_sound/ac97_bus.ko := /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ld -r -EL --build-id=sha1  -T scripts/module.lds -o sound/ac97_bus.ko sound/ac97_bus.o sound/ac97_bus.mod.o;  true

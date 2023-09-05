@@ -1,0 +1,1587 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__longjmp)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memchr)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memcmp)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memcpy)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memmove)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memset)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (rawmemchr)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__stpcpy)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strchr)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strcmp)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strcpy)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strcspn)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__strdup)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strerrorname_np)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strlen)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strncmp)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strnlen)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__closedir)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__rewinddir)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__readdir64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__fdopendir)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__uname)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI__exit)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__getpid)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__environ)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___stat64_time64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___fstat64_time64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___lstat64_time64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___fstatat64_time64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__openat64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os) (__GI___lseek)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__access)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___open_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os) (__cp_stat64_t64_stat64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__mmap)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__munmap)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__mprotect)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os) (__gnu_dev_makedev)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os) (__libc_single_threaded_internal)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__atomic_wide_counter_fetch_add_relaxed)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__profil)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os) (__syscall_error)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os) (__GI___libc_sigaction)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os) (__default_sa_restorer)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os) (__get_errname)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os) (__strchrnul)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os) (__setitimer)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os) (__GI___getdents64)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__aeabi_uidiv)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os) (__aeabi_idiv)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__aeabi_uldivmod)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o) (raise)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os) (__pthread_kill)
+/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+                              /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os) (__pthread_self)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.mapT.o
+START GROUP
+LOAD /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+LOAD /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a
+LOAD /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x0000000000000000    0x1cac0
+ *(.text .stub)
+ .text          0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.mapT.o
+                0x0000000000000000                malloc
+                0x0000000000000000                calloc
+                0x0000000000000000                __GI___pthread_enable_asynccancel
+                0x0000000000000000                realloc
+                0x0000000000000000                __GI___pthread_disable_asynccancel
+                0x0000000000000000                __pthread_enable_asynccancel
+                0x0000000000000000                __pthread_disable_asynccancel
+                0x0000000000000000                free
+ .text          0x0000000000000000    0x19d98 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000244                _dl_close_worker
+                0x0000000000000fec                _dl_close
+                0x00000000000010a0                _dl_debug_state
+                0x00000000000010a0                __GI__dl_debug_state
+                0x00000000000010a4                _dl_debug_update
+                0x0000000000001114                _dl_debug_initialize
+                0x00000000000012c4                _dl_map_object_deps
+                0x0000000000001f20                _dl_error_free
+                0x0000000000001f48                _dl_exception_create
+                0x0000000000001f48                __GI__dl_exception_create
+                0x0000000000001fec                __GI__dl_exception_create_format
+                0x0000000000001fec                _dl_exception_create_format
+                0x00000000000022b8                _dl_exception_free
+                0x00000000000022b8                __GI__dl_exception_free
+                0x00000000000022ec                __GI___nptl_change_stack_perm
+                0x00000000000022ec                __nptl_change_stack_perm
+                0x0000000000002320                _dl_make_stacks_executable
+                0x00000000000027ac                __GI__dl_find_object
+                0x00000000000027ac                _dl_find_object
+                0x0000000000002a7c                _dlfo_sort_mappings
+                0x0000000000002b30                _dl_find_object_init
+                0x0000000000002cb4                _dl_find_object_update
+                0x00000000000031c8                _dl_find_object_dlclose
+                0x000000000000323c                _dl_find_object_freeres
+                0x00000000000032d0                _dl_fini
+                0x000000000000380c                _dl_init
+                0x0000000000004650                _dl_dst_count
+                0x00000000000046f0                _dl_dst_substitute
+                0x0000000000004e48                _dl_init_paths
+                0x000000000000524c                _dl_process_pt_gnu_property
+                0x00000000000067fc                _dl_map_object
+                0x00000000000071d8                _dl_rtld_di_serinfo
+                0x0000000000007da8                _dl_lookup_symbol_x
+                0x0000000000008870                _dl_lookup_direct
+                0x00000000000089c4                __minimal_malloc
+                0x0000000000008b0c                __minimal_calloc
+                0x0000000000008b6c                __minimal_free
+                0x0000000000008ba0                __minimal_realloc
+                0x0000000000008c40                _dl_sysdep_read_whole_file
+                0x0000000000008cbc                _dl_name_match_p
+                0x0000000000008d18                _dl_higher_prime_number
+                0x0000000000008d60                _dl_strtoul
+                0x0000000000008ecc                _dl_add_to_namespace_list
+                0x0000000000008f94                _dl_new_object
+                0x0000000000009784                __GI__dl_find_dso_for_object
+                0x0000000000009784                _dl_find_dso_for_object
+                0x0000000000009844                _dl_open
+                0x0000000000009b64                _dl_show_scope
+                0x000000000000a4fc                _dl_get_origin
+                0x000000000000aa50                _dl_debug_printf
+                0x000000000000aa8c                _dl_debug_printf_c
+                0x000000000000aac8                _dl_dprintf
+                0x000000000000aaf4                _dl_printf
+                0x000000000000ab24                _dl_error_printf
+                0x000000000000ab54                _dl_fatal_printf
+                0x000000000000ab54                __GI__dl_fatal_printf
+                0x000000000000ab7c                _dl_start_profile
+                0x000000000000b1d8                __GI__dl_mcount
+                0x000000000000b1d8                _dl_mcount
+                0x000000000000b72c                _dl_try_allocate_static_tls
+                0x000000000000b830                _dl_allocate_static_tls
+                0x000000000000b874                _dl_protect_relro
+                0x000000000000b8f0                _dl_reloc_bad_type
+                0x000000000000b95c                _dl_relocate_object
+                0x000000000000dc04                _dl_fixup
+                0x000000000000def0                _dl_profile_fixup
+                0x000000000000e24c                _dl_scope_free
+                0x000000000000e34c                _dl_setup_hash
+                0x000000000000e4e8                _dl_sort_maps_init
+                0x000000000000e520                _dl_sort_maps
+                0x000000000000e950                __thread_gscope_wait
+                0x000000000000ee84                _dl_tls_static_surplus_init
+                0x000000000000ef20                _dl_assign_tls_modid
+                0x000000000000f040                _dl_count_modids
+                0x000000000000f0c0                _dl_determine_tlsoffset
+                0x000000000000f2ac                _dl_get_tls_static_info
+                0x000000000000f2cc                _dl_allocate_tls_storage
+                0x000000000000f370                __GI__dl_allocate_tls_init
+                0x000000000000f370                _dl_allocate_tls_init
+                0x000000000000f5e8                __GI__dl_allocate_tls
+                0x000000000000f5e8                _dl_allocate_tls
+                0x000000000000f60c                _dl_deallocate_tls
+                0x000000000000f60c                __GI__dl_deallocate_tls
+                0x000000000000f6a4                _dl_update_slotinfo
+                0x000000000000f8ec                __GI___tls_get_addr
+                0x000000000000f8ec                __tls_get_addr
+                0x000000000000f950                _dl_tls_get_addr_soft
+                0x000000000000f9dc                _dl_add_to_slotinfo
+                0x000000000000faf4                _dl_init_static_tls
+                0x000000000000fc5c                __tls_pre_init_tp
+                0x000000000000fcc0                __tls_init_tp
+                0x000000000000fdec                _dl_runtime_resolve
+                0x000000000000fe10                _dl_runtime_profile
+                0x000000000000fed0                _dl_check_map_versions
+                0x000000000001078c                _dl_check_all_versions
+                0x00000000000107e4                _dl_write
+                0x00000000000107f4                _dl_cache_libcmp
+                0x0000000000010e9c                _dl_load_cache_lookup
+                0x00000000000111b8                _dl_unload_cache
+                0x0000000000011374                __GI___tunable_set_val
+                0x0000000000011394                __GI___tunables_init
+                0x0000000000011810                __GI___tunables_print
+                0x000000000001190c                __tunable_get_val
+                0x000000000001190c                __GI___tunable_get_val
+                0x00000000000119e0                _dl_make_tlsdesc_dynamic
+                0x0000000000011cb8                _dl_unmap
+                0x0000000000011d34                _dl_tlsdesc_return
+                0x0000000000011d3c                _dl_tlsdesc_undefweak
+                0x0000000000011d58                _dl_tlsdesc_dynamic
+                0x0000000000011dd8                _dl_audit_activity_map
+                0x0000000000011e30                _dl_audit_activity_nsid
+                0x0000000000011e74                _dl_audit_objsearch
+                0x0000000000011f00                _dl_audit_objopen
+                0x0000000000011f94                _dl_audit_objclose
+                0x0000000000012014                _dl_audit_preinit
+                0x0000000000012070                _dl_audit_symbind_alt
+                0x0000000000012070                __GI__dl_audit_symbind_alt
+                0x00000000000121bc                _dl_audit_symbind
+                0x0000000000012394                _dl_audit_pltenter
+                0x000000000001258c                _dl_audit_pltexit
+                0x000000000001276c                _dl_diagnostics_print_string
+                0x00000000000127b8                _dl_diagnostics_print_labeled_string
+                0x00000000000127e8                _dl_diagnostics_print_labeled_value
+                0x000000000001281c                _dl_print_diagnostics
+                0x0000000000012bcc                _dl_diagnostics_cpu
+                0x0000000000012c9c                _dl_diagnostics_kernel
+                0x0000000000012d40                _dl_next_ld_env_entry
+                0x0000000000012d8c                unsetenv
+                0x0000000000012ed8                _dl_signal_exception
+                0x0000000000012f20                _dl_signal_error
+                0x0000000000012f74                _dl_signal_cexception
+                0x0000000000013028                _dl_signal_cerror
+                0x00000000000130ec                _dl_catch_exception
+                0x00000000000131bc                _dl_catch_error
+                0x0000000000013208                _dl_receive_error
+                0x0000000000013240                _rtld_catch_error
+                0x0000000000013348                _dl_important_hwcaps
+                0x0000000000013b4c                _dl_hwcaps_subdirs_active
+                0x0000000000013b54                _dl_hwcaps_split
+                0x0000000000013bc0                _dl_hwcaps_contains
+                0x0000000000013c28                _dl_hwcaps_split_masked
+                0x0000000000013c6c                __rtld_libc_freeres
+                0x0000000000013c70                __rtld_malloc_init_stubs
+                0x0000000000013cc0                __sigjmp_save
+                0x0000000000013cd0                __GI___libc_fatal
+                0x0000000000013cd0                __libc_fatal
+                0x0000000000013ce8                __GI___chk_fail
+                0x0000000000013ce8                __chk_fail
+                0x0000000000013cf4                __GI___assert_fail
+                0x0000000000013cf4                __assert_fail
+                0x0000000000013d38                __rtld_malloc_is_complete
+                0x0000000000013e94                __rtld_malloc_init_real
+                0x0000000000013f80                _itoa
+                0x0000000000014018                __strerror_r
+                0x000000000001411c                __GI___assert_perror_fail
+                0x000000000001411c                __assert_perror_fail
+                0x0000000000014184                __strsep
+                0x0000000000014184                strsep
+                0x0000000000014184                __strsep_g
+                0x0000000000014218                __rtld_mutex_init
+                0x000000000001436c                _dl_sysdep_start
+                0x0000000000014598                _dl_sysdep_start_cleanup
+                0x000000000001459c                _dl_show_auxv
+                0x000000000001491c                _dl_usage
+                0x0000000000014970                _dl_version
+                0x000000000001498c                _dl_help
+                0x0000000000014d68                _start
+                0x0000000000014d74                _dl_start_user
+                0x000000000001629c                handle_preload_list
+                0x00000000000194f0                __aeabi_read_tp
+                0x00000000000194f8                __brk
+                0x00000000000194f8                brk
+                0x0000000000019544                sbrk
+                0x0000000000019544                __sbrk
+                0x00000000000195d4                __getcwd
+                0x00000000000195d4                getcwd
+                0x0000000000019bb8                openat64
+                0x0000000000019c44                __alloc_dir
+                0x0000000000019ce0                __opendir
+                0x0000000000019ce0                opendir
+                0x0000000000019d8c                __aeabi_unwind_cpp_pr0
+                0x0000000000019d90                __aeabi_unwind_cpp_pr1
+                0x0000000000019d94                __aeabi_unwind_cpp_pr2
+ .text          0x0000000000019d98      0x108 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+                0x0000000000019e70                __libc_check_standard_fds
+ .text          0x0000000000019ea0        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+ .text          0x0000000000019ea0       0x84 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+                0x0000000000019ea0                __sigsetjmp
+                0x0000000000019ea0                __GI___sigsetjmp
+ *fill*         0x0000000000019f24        0xc 
+ .text          0x0000000000019f30       0x90 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+                0x0000000000019f30                __longjmp
+ .text          0x0000000000019fc0      0x16c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+                0x0000000000019fc0                __GI___lll_lock_wait_private
+                0x0000000000019fc0                __lll_lock_wait_private
+                0x000000000001a058                __lll_lock_wait
+                0x000000000001a058                __GI___lll_lock_wait
+                0x000000000001a0f4                __lll_lock_wake_private
+                0x000000000001a0f4                __GI___lll_lock_wake_private
+                0x000000000001a110                __lll_lock_wake
+                0x000000000001a110                __GI___lll_lock_wake
+ .text          0x000000000001a12c       0xc0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+                0x000000000001a12c                __libc_scratch_buffer_set_array_size
+                0x000000000001a12c                __GI___libc_scratch_buffer_set_array_size
+ .text          0x000000000001a1ec       0xac /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+                0x000000000001a1ec                __GI_memchr
+                0x000000000001a1ec                memchr
+                0x000000000001a1ec                __memchr
+ .text          0x000000000001a298      0x268 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+                0x000000000001a2c8                bcmp
+                0x000000000001a2c8                __GI___memcmpeq
+                0x000000000001a2c8                __memcmpeq
+                0x000000000001a2c8                __GI_memcmp
+                0x000000000001a2c8                memcmp
+ .text          0x000000000001a500      0x310 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+                0x000000000001a500                memcpy
+                0x000000000001a500                __GI_memcpy
+ .text          0x000000000001a810      0x320 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+                0x000000000001a810                memmove
+                0x000000000001a810                __GI_memmove
+ .text          0x000000000001ab30       0x7c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+                0x000000000001ab30                __GI_memset
+                0x000000000001ab30                memset
+ .text          0x000000000001abac       0x24 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+                0x000000000001abac                __GI___rawmemchr
+                0x000000000001abac                __rawmemchr
+                0x000000000001abac                rawmemchr
+ .text          0x000000000001abd0       0x30 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+                0x000000000001abd0                stpcpy
+                0x000000000001abd0                __GI_stpcpy
+                0x000000000001abd0                __stpcpy
+                0x000000000001abd0                __GI___stpcpy
+ .text          0x000000000001ac00       0xe4 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+                0x000000000001ac00                __GI_strchr
+                0x000000000001ac00                index
+                0x000000000001ac00                strchr
+ .text          0x000000000001ace4       0x28 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+                0x000000000001ace4                __GI_strcmp
+                0x000000000001ace4                strcmp
+ .text          0x000000000001ad0c       0x28 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+                0x000000000001ad0c                strcpy
+                0x000000000001ad0c                __GI_strcpy
+ .text          0x000000000001ad34      0x130 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+                0x000000000001ad34                strcspn
+                0x000000000001ad34                __GI_strcspn
+ .text          0x000000000001ae64       0x30 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+                0x000000000001ae64                __GI___strdup
+                0x000000000001ae64                __strdup
+                0x000000000001ae64                strdup
+ .text          0x000000000001ae94        0x4 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+                0x000000000001ae94                strerrorname_np
+ *fill*         0x000000000001ae98        0x8 
+ .text          0x000000000001aea0       0x60 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+                0x000000000001aea0                strlen
+                0x000000000001aea0                __GI_strlen
+ .text          0x000000000001af00       0xfc /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+                0x000000000001af00                __GI_strncmp
+                0x000000000001af00                strncmp
+ .text          0x000000000001affc       0xd4 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+                0x000000000001affc                __strnlen
+                0x000000000001affc                strnlen
+                0x000000000001affc                __GI___strnlen
+                0x000000000001affc                __GI_strnlen
+ .text          0x000000000001b0d0       0x40 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+                0x000000000001b0d0                __closedir
+                0x000000000001b0d0                closedir
+ .text          0x000000000001b110       0xbc /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+                0x000000000001b110                rewinddir
+                0x000000000001b110                __rewinddir
+                0x000000000001b110                __GI___rewinddir
+ .text          0x000000000001b1cc      0x154 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+                0x000000000001b1cc                __readdir64
+                0x000000000001b1cc                __GI___readdir64
+                0x000000000001b1cc                readdir64@@GLIBC_2.4
+ .text          0x000000000001b320       0xa8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+                0x000000000001b320                fdopendir
+                0x000000000001b320                __fdopendir
+ *fill*         0x000000000001b3c8        0x8 
+ .text          0x000000000001b3d0       0x1c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+                0x000000000001b3d0                uname
+                0x000000000001b3d0                __GI_uname
+                0x000000000001b3d0                __uname
+                0x000000000001b3d0                __GI___uname
+ .text          0x000000000001b3ec       0x68 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+                0x000000000001b3ec                _Exit
+                0x000000000001b3ec                __GI__exit
+                0x000000000001b3ec                _exit
+ *fill*         0x000000000001b454        0xc 
+ .text          0x000000000001b460       0x14 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+                0x000000000001b460                __getpid
+                0x000000000001b460                getpid
+                0x000000000001b460                __GI_getpid
+                0x000000000001b460                __GI___getpid
+ .text          0x000000000001b474        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+ .text          0x000000000001b474       0x48 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+                0x000000000001b474                __stat64_time64
+                0x000000000001b474                __GI___stat64_time64
+                0x000000000001b488                stat64
+                0x000000000001b488                __stat64
+                0x000000000001b488                __GI___stat64
+ .text          0x000000000001b4bc       0xa0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+                0x000000000001b4bc                __GI___fstat64_time64
+                0x000000000001b4bc                __fstat64_time64
+                0x000000000001b500                __GI___fstat64
+                0x000000000001b500                fstat64
+                0x000000000001b500                __fstat64
+ .text          0x000000000001b55c       0x48 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+                0x000000000001b55c                __GI___lstat64_time64
+                0x000000000001b55c                __lstat64_time64
+                0x000000000001b570                __lstat64
+                0x000000000001b570                lstat64
+                0x000000000001b570                __GI___lstat64
+ .text          0x000000000001b5a4      0x1a0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+                0x000000000001b5a4                __fstatat64_time64
+                0x000000000001b5a4                __GI___fstatat64_time64
+                0x000000000001b710                fstatat64
+                0x000000000001b710                __fstatat64
+                0x000000000001b710                __GI___fstatat64
+ .text          0x000000000001b744      0x100 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+                0x000000000001b744                __openat64
+                0x000000000001b744                __GI___openat64
+                0x000000000001b744                __libc_openat64
+ .text          0x000000000001b844       0x88 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+                0x000000000001b844                __GI___lseek
+                0x000000000001b844                lseek
+                0x000000000001b844                __lseek
+                0x000000000001b844                __libc_lseek
+ .text          0x000000000001b8cc       0x3c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+                0x000000000001b8cc                __GI___access
+                0x000000000001b8cc                access
+                0x000000000001b8cc                __access
+ .text          0x000000000001b908       0x3c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+                0x000000000001b908                __GI___close_nocancel
+                0x000000000001b908                __close_nocancel
+ .text          0x000000000001b944       0xb0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+                0x000000000001b944                __fcntl64_nocancel_adjusted
+                0x000000000001b9c8                __fcntl64_nocancel
+                0x000000000001b9c8                __GI___fcntl64_nocancel
+ .text          0x000000000001b9f4       0x80 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+                0x000000000001b9f4                __GI___open_nocancel
+                0x000000000001b9f4                __open_nocancel
+ .text          0x000000000001ba74       0x84 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+                0x000000000001ba74                __GI___open64_nocancel
+                0x000000000001ba74                __open64_nocancel
+ .text          0x000000000001baf8       0x3c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+                0x000000000001baf8                __read_nocancel
+                0x000000000001baf8                __GI___read_nocancel
+ .text          0x000000000001bb34       0x44 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+                0x000000000001bb34                __GI___pread64_nocancel
+                0x000000000001bb34                __pread64_nocancel
+ .text          0x000000000001bb78       0x3c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+                0x000000000001bb78                __GI___write_nocancel
+                0x000000000001bb78                __write_nocancel
+ .text          0x000000000001bbb4       0xf8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+                0x000000000001bbb4                __cp_stat64_t64_stat64
+ .text          0x000000000001bcac       0x78 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+                0x000000000001bcac                __GI___mmap
+                0x000000000001bcac                __mmap
+                0x000000000001bcac                mmap
+ *fill*         0x000000000001bd24        0xc 
+ .text          0x000000000001bd30       0x1c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+                0x000000000001bd30                munmap
+                0x000000000001bd30                __GI___munmap
+                0x000000000001bd30                __GI_munmap
+                0x000000000001bd30                __munmap
+ *fill*         0x000000000001bd4c        0x4 
+ .text          0x000000000001bd50       0x1c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+                0x000000000001bd50                __mprotect
+                0x000000000001bd50                __GI___mprotect
+                0x000000000001bd50                __GI_mprotect
+                0x000000000001bd50                mprotect
+ .text          0x000000000001bd6c       0x60 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+                0x000000000001bd6c                gnu_dev_major
+                0x000000000001bd6c                __GI_gnu_dev_major
+                0x000000000001bd6c                __gnu_dev_major
+                0x000000000001bd80                __GI_gnu_dev_minor
+                0x000000000001bd80                gnu_dev_minor
+                0x000000000001bd80                __gnu_dev_minor
+                0x000000000001bd98                __GI_gnu_dev_makedev
+                0x000000000001bd98                gnu_dev_makedev
+                0x000000000001bd98                __gnu_dev_makedev
+ .text          0x000000000001bdcc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+ .text          0x000000000001bdcc       0xe8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+                0x000000000001bdcc                __atomic_wide_counter_fetch_add_relaxed
+                0x000000000001be64                __atomic_wide_counter_load_relaxed
+ .text          0x000000000001beb4      0x1b0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+                0x000000000001beb4                __profil_counter
+                0x000000000001beb4                profil_counter@GLIBC_2.4
+                0x000000000001bf04                __profil
+                0x000000000001bf04                profil
+ .text          0x000000000001c064       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+                0x000000000001c064                __GI___profile_frequency
+                0x000000000001c064                __profile_frequency
+ .text          0x000000000001c084       0x60 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+                0x000000000001c084                _dl_addr_inside_object
+ *fill*         0x000000000001c0e4        0xc 
+ .text          0x000000000001c0f0       0x34 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+                0x000000000001c0f0                __syscall_error
+ .text          0x000000000001c124       0x40 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+                0x000000000001c124                sigaction
+                0x000000000001c124                __GI___sigaction
+                0x000000000001c124                __sigaction
+ .text          0x000000000001c164      0x130 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+                0x000000000001c164                __libc_sigaction
+                0x000000000001c164                __GI___libc_sigaction
+ *fill*         0x000000000001c294        0xc 
+ .text          0x000000000001c2a0       0x28 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+                0x000000000001c2b0                __default_sa_restorer
+                0x000000000001c2c0                __default_rt_sa_restorer
+ .text          0x000000000001c2c8       0x50 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+                0x000000000001c2c8                __get_errname
+ .text          0x000000000001c318       0xc0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+                0x000000000001c318                __strchrnul
+                0x000000000001c318                strchrnul
+ .text          0x000000000001c3d8      0x1b8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+                0x000000000001c3d8                __GI___setitimer64
+                0x000000000001c3d8                __setitimer64
+                0x000000000001c4f4                setitimer
+                0x000000000001c4f4                __setitimer
+ .text          0x000000000001c590       0x48 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+                0x000000000001c590                __GI___getdents64
+                0x000000000001c590                getdents64
+                0x000000000001c590                __getdents64
+ .text          0x000000000001c5d8       0xc8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+                0x000000000001c5d8                __udivsi3
+                0x000000000001c5d8                __aeabi_uidiv
+                0x000000000001c680                __aeabi_uidivmod
+ .text          0x000000000001c6a0       0xfc /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+                0x000000000001c6a0                __aeabi_idiv
+                0x000000000001c6a0                __divsi3
+                0x000000000001c77c                __aeabi_idivmod
+ .text          0x000000000001c79c       0x3c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+                0x000000000001c79c                __aeabi_uldivmod
+ .text          0x000000000001c7d8       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+                0x000000000001c7d8                __aeabi_ldiv0
+                0x000000000001c7d8                __aeabi_idiv0
+ .text          0x000000000001c7e8      0x118 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+                0x000000000001c7e8                __udivmoddi4
+ .text          0x000000000001c900       0x3c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+                0x000000000001c900                gsignal
+                0x000000000001c900                __GI_raise
+                0x000000000001c900                raise
+ .text          0x000000000001c93c      0x174 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+                0x000000000001ca90                __pthread_kill_internal
+                0x000000000001ca98                __GI___pthread_kill
+                0x000000000001ca98                pthread_kill@@GLIBC_2.34
+                0x000000000001ca98                __pthread_kill
+ .text          0x000000000001cab0       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+                0x000000000001cab0                __GI___pthread_self
+                0x000000000001cab0                pthread_self
+                0x000000000001cab0                __pthread_self
+ *(.gnu.warning)
+
+.text.compat    0x0000000000000000       0x20
+ .text.compat   0x0000000000000000        0x4 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+ .text.compat   0x0000000000000004       0x1c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+                0x0000000000000004                pthread_kill@GLIBC_2.4
+                0x0000000000000004                __pthread_kill_esrch
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1004
+ *(.rodata)
+ .rodata        0x0000000000000000      0xa9a /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .rodata        0x0000000000000a9a      0x561 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+ *fill*         0x0000000000000ffb        0x1 
+ .rodata        0x0000000000000ffc        0x8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+
+.rodata.str1.1  0x0000000000000000     0x415f
+ .rodata.str1.1
+                0x0000000000000000     0x4113 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x00000000000025ea                _dl_hwcaps_subdirs
+                0x00000000000027cd                __GI__itoa_lower_digits
+                0x00000000000027cd                _itoa_lower_digits
+ .rodata.str1.1
+                0x0000000000004113       0x14 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000004127       0x37 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+ .rodata.str1.1
+                0x000000000000415e        0x1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.ARM.extab.text.compat
+                0x0000000000000000        0x0
+ .ARM.extab.text.compat
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+
+.ARM.exidx.text.compat
+                0x0000000000000000       0x10
+ .ARM.exidx.text.compat
+                0x0000000000000000       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+                                          0x8 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0000000000000000       0x18
+ *(.ARM.extab)
+ .ARM.extab     0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .ARM.extab     0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+ .ARM.extab     0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+ .ARM.extab     0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .ARM.extab     0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+ .ARM.extab     0x0000000000000000       0x18 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+ .ARM.extab     0x0000000000000018        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000018        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .ARM.extab     0x0000000000000018        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+
+.ARM.exidx      0x0000000000000000       0xe8
+ *(.ARM.exidx)
+ .ARM.exidx     0x0000000000000000       0x68 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .ARM.exidx     0x0000000000000068       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000000000078       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000000000088        0x8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .ARM.exidx     0x0000000000000090       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x00000000000000a0       0x18 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x00000000000000b8        0x8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000000000c0        0x8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .ARM.exidx     0x00000000000000c8       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+                                         0x18 (size before relaxing)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000        0x4
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.data           0x0000000000000000      0x930
+ *(.data)
+ .data          0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.mapT.o
+ .data          0x0000000000000000      0x930 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+ .data          0x0000000000000930        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+
+.data.rel.ro    0x0000000000000000      0xe20
+ .data.rel.ro   0x0000000000000000      0xe20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x000000000000002c                __rtld_env_path_list
+                0x0000000000000034                __rtld_search_dirs
+                0x000000000000003c                __stack_prot
+                0x0000000000000040                __rseq_offset
+                0x0000000000000044                __rseq_size
+                0x0000000000000c18                __rtld_calloc
+                0x0000000000000c1c                __rtld_free
+                0x0000000000000c20                __rtld_malloc
+                0x0000000000000c24                __rtld_realloc
+                0x0000000000000c28                ___rtld_mutex_lock
+                0x0000000000000c2c                ___rtld_mutex_unlock
+                0x0000000000000c30                __libc_stack_end
+                0x0000000000000c30                __GI___libc_stack_end
+                0x0000000000000c34                __GI___libc_enable_secure
+                0x0000000000000c34                __libc_enable_secure
+                0x0000000000000c38                _dl_random
+                0x0000000000000c40                __GI__dl_argv
+                0x0000000000000c40                _dl_argv
+                0x0000000000000c44                _dl_argc
+                0x0000000000000c48                __pointer_chk_guard
+                0x0000000000000c48                __pointer_chk_guard_local
+                0x0000000000000c4c                __stack_chk_guard
+                0x0000000000000c50                _rtld_global_ro
+                0x0000000000000c50                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000       0x10
+ .data.rel.ro.local
+                0x0000000000000000       0x10 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x18c
+ *(.bss)
+ .bss           0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.mapT.o
+ .bss           0x0000000000000000       0xd8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000004                _r_debug_extended
+                0x0000000000000004                _r_debug
+                0x0000000000000074                __nptl_initial_report_events
+                0x0000000000000074                __GI___nptl_initial_report_events
+                0x000000000000009c                _dl_hwcaps_priorities
+                0x00000000000000a0                _dl_hwcaps_priorities_length
+                0x00000000000000d4                __curbrk
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+ .bss           0x00000000000000d8        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+ .bss           0x00000000000000d8        0x4 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+                0x00000000000000d8                _environ
+                0x00000000000000d8                __environ
+                0x00000000000000d8                environ
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+ .bss           0x00000000000000dc        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+ .bss           0x00000000000000dc        0x1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+                0x00000000000000dc                __libc_single_threaded
+                0x00000000000000dc                __libc_single_threaded_internal
+ .bss           0x00000000000000dd        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+ *fill*         0x00000000000000dd        0x3 
+ .bss           0x00000000000000e0       0xac /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+ .bss           0x000000000000018c        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000     0x114c
+ *(.comment)
+ .comment       0x0000000000000000      0x8a6 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .comment       0x00000000000008a6       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+ .comment       0x00000000000008cf       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+ .comment       0x00000000000008f8       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+ .comment       0x0000000000000921       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .comment       0x000000000000094a       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+ .comment       0x0000000000000973       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+ .comment       0x000000000000099c       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+ .comment       0x00000000000009c5       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+ .comment       0x00000000000009ee       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+ .comment       0x0000000000000a17       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+ .comment       0x0000000000000a40       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+ .comment       0x0000000000000a69       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+ .comment       0x0000000000000a92       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+ .comment       0x0000000000000abb       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+ .comment       0x0000000000000ae4       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+ .comment       0x0000000000000b0d       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+ .comment       0x0000000000000b36       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+ .comment       0x0000000000000b5f       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+ .comment       0x0000000000000b88       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+ .comment       0x0000000000000bb1       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+ .comment       0x0000000000000bda       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+ .comment       0x0000000000000c03       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+ .comment       0x0000000000000c2c       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+ .comment       0x0000000000000c55       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+ .comment       0x0000000000000c7e       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+ .comment       0x0000000000000ca7       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+ .comment       0x0000000000000cd0       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+ .comment       0x0000000000000cf9       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+ .comment       0x0000000000000d22       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+ .comment       0x0000000000000d4b       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+ .comment       0x0000000000000d74       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+ .comment       0x0000000000000d9d       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+ .comment       0x0000000000000dc6       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+ .comment       0x0000000000000def       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+ .comment       0x0000000000000e18       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+ .comment       0x0000000000000e41       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+ .comment       0x0000000000000e6a       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+ .comment       0x0000000000000e93       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+ .comment       0x0000000000000ebc       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+ .comment       0x0000000000000ee5       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+ .comment       0x0000000000000f0e       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+ .comment       0x0000000000000f37       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+ .comment       0x0000000000000f60       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000f89       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+ .comment       0x0000000000000fb2       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000fdb       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+ .comment       0x0000000000001004       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+ .comment       0x000000000000102d       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+ .comment       0x0000000000001056       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+ .comment       0x000000000000107f       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+ .comment       0x00000000000010a8       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .comment       0x00000000000010d1       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .comment       0x00000000000010fa       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+ .comment       0x0000000000001123       0x29 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.mapT.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.mapT.o
+ .ARM.attributes
+                0x000000000000001c       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .ARM.attributes
+                0x000000000000004a       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(check_fds.os)
+ .ARM.attributes
+                0x0000000000000078       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errno.os)
+ .ARM.attributes
+                0x00000000000000a6       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+ .ARM.attributes
+                0x00000000000000c6       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+ .ARM.attributes
+                0x00000000000000e6       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lowlevellock.os)
+ .ARM.attributes
+                0x0000000000000114       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .ARM.attributes
+                0x0000000000000142       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memchr.os)
+ .ARM.attributes
+                0x0000000000000170       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcmp.os)
+ .ARM.attributes
+                0x000000000000019e       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+ .ARM.attributes
+                0x00000000000001be       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+ .ARM.attributes
+                0x00000000000001de       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+ .ARM.attributes
+                0x00000000000001fe       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rawmemchr.os)
+ .ARM.attributes
+                0x000000000000022c       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stpcpy.os)
+ .ARM.attributes
+                0x000000000000025a       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchr.os)
+ .ARM.attributes
+                0x0000000000000288       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcmp.os)
+ .ARM.attributes
+                0x00000000000002b6       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcpy.os)
+ .ARM.attributes
+                0x00000000000002e4       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strcspn.os)
+ .ARM.attributes
+                0x0000000000000312       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strdup.os)
+ .ARM.attributes
+                0x0000000000000340       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strerrorname_np.os)
+ .ARM.attributes
+                0x000000000000036e       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+ .ARM.attributes
+                0x000000000000038e       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strncmp.os)
+ .ARM.attributes
+                0x00000000000003bc       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strnlen.os)
+ .ARM.attributes
+                0x00000000000003ea       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(closedir.os)
+ .ARM.attributes
+                0x0000000000000418       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(rewinddir.os)
+ .ARM.attributes
+                0x0000000000000446       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(readdir64.os)
+ .ARM.attributes
+                0x0000000000000474       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fdopendir.os)
+ .ARM.attributes
+                0x00000000000004a2       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+ .ARM.attributes
+                0x00000000000004c2       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(_exit.os)
+ .ARM.attributes
+                0x00000000000004f0       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+ .ARM.attributes
+                0x0000000000000510       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(environ.os)
+ .ARM.attributes
+                0x000000000000053e       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat64.os)
+ .ARM.attributes
+                0x000000000000056c       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstat64.os)
+ .ARM.attributes
+                0x000000000000059a       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lstat64.os)
+ .ARM.attributes
+                0x00000000000005c8       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fstatat64.os)
+ .ARM.attributes
+                0x00000000000005f6       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(openat64.os)
+ .ARM.attributes
+                0x0000000000000624       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(lseek.os)
+ .ARM.attributes
+                0x0000000000000652       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(access.os)
+ .ARM.attributes
+                0x0000000000000680       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(close_nocancel.os)
+ .ARM.attributes
+                0x00000000000006ae       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(fcntl_nocancel.os)
+ .ARM.attributes
+                0x00000000000006dc       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open_nocancel.os)
+ .ARM.attributes
+                0x000000000000070a       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(open64_nocancel.os)
+ .ARM.attributes
+                0x0000000000000738       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(read_nocancel.os)
+ .ARM.attributes
+                0x0000000000000766       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pread64_nocancel.os)
+ .ARM.attributes
+                0x0000000000000794       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(write_nocancel.os)
+ .ARM.attributes
+                0x00000000000007c2       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(stat_t64_cp.os)
+ .ARM.attributes
+                0x00000000000007f0       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mmap.os)
+ .ARM.attributes
+                0x000000000000081e       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .ARM.attributes
+                0x000000000000083e       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+ .ARM.attributes
+                0x000000000000085e       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(makedev.os)
+ .ARM.attributes
+                0x000000000000088c       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(single_threaded.os)
+ .ARM.attributes
+                0x00000000000008ba       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(atomic_wide_counter.os)
+ .ARM.attributes
+                0x00000000000008e8       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(profil.os)
+ .ARM.attributes
+                0x0000000000000916       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(prof-freq.os)
+ .ARM.attributes
+                0x0000000000000944       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(dl-addr-obj.os)
+ .ARM.attributes
+                0x0000000000000972       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+ .ARM.attributes
+                0x0000000000000992       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigaction.os)
+ .ARM.attributes
+                0x00000000000009c0       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(libc_sigaction.os)
+ .ARM.attributes
+                0x00000000000009ee       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+ .ARM.attributes
+                0x0000000000000a0e       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(errname.os)
+ .ARM.attributes
+                0x0000000000000a3c       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strchrnul.os)
+ .ARM.attributes
+                0x0000000000000a6a       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setitimer.os)
+ .ARM.attributes
+                0x0000000000000a98       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getdents64.os)
+ .ARM.attributes
+                0x0000000000000ac6       0x1e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000ae4       0x1e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000b02       0x1e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000b20       0x1e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x0000000000000b3e       0x2c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000b6a       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(raise.os)
+ .ARM.attributes
+                0x0000000000000b98       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_kill.os)
+ .ARM.attributes
+                0x0000000000000bc6       0x2e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(pthread_self.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xa0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x46d
+ *(.debug_info)
+ .debug_info    0x0000000000000000       0x25 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000000025       0x25 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_info    0x000000000000004a       0x24 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x000000000000006e       0x24 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x0000000000000092      0x3db /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_abbrev   0x0000000000000000      0x169
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x14 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000000014       0x14 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000000028       0x14 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x000000000000003c       0x14 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x0000000000000050      0x119 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_line     0x0000000000000000      0x2cb
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_line    0x0000000000000066       0x72 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_line    0x00000000000000d8       0x4e /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x0000000000000126       0x4f /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x0000000000000175      0x156 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_frame    0x0000000000000000      0x4b8
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xe8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .debug_frame   0x00000000000000e8       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(setjmp.os)
+ .debug_frame   0x0000000000000108       0x30 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(__longjmp.os)
+ .debug_frame   0x0000000000000138       0x7c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memcpy.os)
+ .debug_frame   0x00000000000001b4       0x7c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memmove.os)
+ .debug_frame   0x0000000000000230       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(memset.os)
+ .debug_frame   0x0000000000000250       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(strlen.os)
+ .debug_frame   0x0000000000000270       0x2c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(uname.os)
+ .debug_frame   0x000000000000029c       0x2c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(getpid.os)
+ .debug_frame   0x00000000000002c8       0x2c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(munmap.os)
+ .debug_frame   0x00000000000002f4       0x2c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(mprotect.os)
+ .debug_frame   0x0000000000000320       0x28 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sysdep.os)
+ .debug_frame   0x0000000000000348       0xa8 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/libc_pic.a(sigrestorer.os)
+ .debug_frame   0x00000000000003f0       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000410       0x20 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000430       0x2c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x000000000000045c       0x28 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .debug_frame   0x0000000000000484       0x34 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_str      0x0000000000000000      0x900
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0xb1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_str     0x00000000000000b1       0xb1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_str     0x0000000000000162       0xad /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x000000000000020f       0xb1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+ .debug_str     0x00000000000002c0      0x640 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x2bc
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000       0xb1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivsi3.o)
+ .debug_line_str
+                0x00000000000000b1       0xb1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_divsi3.o)
+ .debug_line_str
+                0x0000000000000162       0xa9 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x000000000000020b       0xb1 /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_dvmd_lnx.o)
+
+.debug_loclists
+                0x0000000000000000      0x15c
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000      0x15c /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/lib/gcc/arm-buildroot-linux-gnueabi/11.4.0/libgcc.a(_udivmoddi4.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.map.o elf32-littlearm)
+LOAD linker stubs

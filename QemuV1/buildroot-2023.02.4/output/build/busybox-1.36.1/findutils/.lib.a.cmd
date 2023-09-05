@@ -1,0 +1,1 @@
+cmd_findutils/lib.a := rm -f findutils/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs findutils/lib.a findutils/find.o findutils/grep.o findutils/xargs.o

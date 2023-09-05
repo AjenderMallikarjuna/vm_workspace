@@ -1,0 +1,1 @@
+cmd_kernel/dma/built-in.a := echo >/dev/null; rm -f kernel/dma/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST kernel/dma/built-in.a kernel/dma/mapping.o kernel/dma/direct.o kernel/dma/ops_helpers.o kernel/dma/dummy.o kernel/dma/coherent.o kernel/dma/remap.o

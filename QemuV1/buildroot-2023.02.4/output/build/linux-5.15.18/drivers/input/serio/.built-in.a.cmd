@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.a := echo >/dev/null; rm -f drivers/input/serio/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/input/serio/built-in.a drivers/input/serio/serio.o drivers/input/serio/serport.o drivers/input/serio/ambakmi.o drivers/input/serio/libps2.o

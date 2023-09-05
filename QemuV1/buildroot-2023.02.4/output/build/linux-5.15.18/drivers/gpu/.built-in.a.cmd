@@ -1,0 +1,1 @@
+cmd_drivers/gpu/built-in.a := echo >/dev/null; rm -f drivers/gpu/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST drivers/gpu/built-in.a drivers/gpu/drm/built-in.a drivers/gpu/vga/built-in.a

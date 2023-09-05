@@ -1,0 +1,1 @@
+cmd_modutils/lib.a := rm -f modutils/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs modutils/lib.a modutils/insmod.o modutils/lsmod.o modutils/modprobe.o modutils/modutils.o modutils/rmmod.o

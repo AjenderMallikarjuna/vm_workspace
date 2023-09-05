@@ -1,0 +1,1 @@
+cmd_coreutils/libcoreutils/lib.a := rm -f coreutils/libcoreutils/lib.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-gcc-ar  rcs coreutils/libcoreutils/lib.a coreutils/libcoreutils/cp_mv_stat.o coreutils/libcoreutils/getopt_mk_fifo_nod.o

@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.a := echo >/dev/null; rm -f fs/notify/inotify/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST fs/notify/inotify/built-in.a fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o

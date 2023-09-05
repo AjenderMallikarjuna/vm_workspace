@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.a := echo >/dev/null; rm -f block/partitions/built-in.a; /home/ajender/QemuV1/Docker/buildroot-2023.02.4/output/host/bin/arm-buildroot-linux-gnueabi-ar cDPrST block/partitions/built-in.a block/partitions/core.o block/partitions/msdos.o block/partitions/efi.o
