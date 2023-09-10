@@ -1,0 +1,53 @@
+#!/bin/sh
+(
+BINARIES_DIR="${0%/*}/"
+cd ${BINARIES_DIR}
+
+if [ "${1}" = "serial-only" ]; then
+    EXTRA_ARGS='-nographic'
+else
+    EXTRA_ARGS='-serial stdio'
+fi
+
+buildroot=/home/ajender/buildroot-2023.02.4/output/images
+export PATH="/home/ajender/QemuV1/buildroot-2023.02.4/output/host/bin:${PATH}"
+
+cd qemu-8.1.0
+#make install
+cd /home/ajender
+
+exec qemu-system-arm -M versatilepb -kernel $buildroot/zImage -dtb $buildroot/versatile-pb.dtb -drive file=$buildroot/rootfs.ext2,if=scsi,format=raw -append "rootwait root=/dev/sda console=ttyAMA0,115200"  -net nic,model=rtl8139 ${EXTRA_ARGS} -device pcm3680_pci  #-net user
+)
+
+#-device can_pci,model=SJA1000,canbus=canbus0,host=vcan0 \
+#-object can-bus,id=canbus0 \
+#-object can-host-socketcan,id=canhost0,if=can0,canbus=canbus0 \
+
+
+
+# qemu-system-aarch64 \
+# -M vexpress-a9 \
+# -m 512M \
+# -cpu cortex-a9 \
+# -nographic \
+# -append "console=ttAMA0" \
+# -kernel /home/linux-6.4.13/arch/arm/boot/zImage \
+# -dtb /home/linux-6.4.13/arch/arm/boot/dts/vexpress-v2p-ca9.dtb \
+# -drive if=none,file=/home/ubuntu-16.04-server-cloudimg-amd64-uefi1.img,id=hd0,format=qcow2
+# -initrd /home/initrd.gz \
+# -drive file=/home/my_disk_image.qcow2,format=qcow2,id=disk0 \
+# -device virtio-blk-device,drive=disk0 \
+# -append "root=/dev/hda" \
+# -device virtio-net-device,netdev=net0 \
+# -netdev user,hostfwd=tcp:127.0.0.1:2222-:22,id=net0
+# -serial stdio \
+
+
+
+
+
+# -bios /home/QEMU_EFI.fd \
+# -drive if=none,file=/home/ubuntu-16.04-server-cloudimg-amd64-uefi1.img,id=hd0,format=qcow2 \
+# -drive file=/home/user-data/user-data.img,format=raw \
+# -bios /home/QEMU_EFI.fd \
+# -dtb /home/linux-6.4.13/arch/arm/boot/dts/vexpress-v2p-ca9.dtb \
