@@ -8,4 +8,5 @@ services:
     image: my_custom_qemu_image:latest
     command: /bin/bash
     volumes:
-    - ../:/home/
+    - ../:/home/ajender
+    privileged: true

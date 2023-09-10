@@ -27,9 +27,15 @@ RUN apt-get  install -y ninja-build && \
 
 # Set Python 3.8 as the default
 
+RUN useradd -ms /bin/bash ajender
 
 # Set the working directory inside the container
-WORKDIR /home/
+USER ajender
+WORKDIR /home/ajender
+
+
+
+
 
 
 
