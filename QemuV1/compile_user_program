@@ -1,10 +1,27 @@
 #!/bin/sh
 
 #export PATH="/home/ajender/QemuV1/buildroot-2023.02.4/output/host/bin:${PATH}"
-compiler_path=/home/ajender/buildroot-2023.02.4/output/host/bin
-rm /home/ajender/Hello/hello
-$compiler_path/arm-buildroot-linux-gnueabi-gcc-11.4.0  /home/ajender/Hello/hello.c -o /home/ajender/Hello/hello
+#compiler_path=/home/ajender/vm_workspace/QemuV1/buildroot-2023.02.4/output/host/bin
+#compiler_path=/home/ajender/vm_workspace/QemuV1/buildroot-2019.08.1/output/host/bin
 
-mount -t ext2 -o rw,loop /home/ajender/buildroot-2023.02.4/output/images/rootfs.ext2 /home/ajender/try/
-cp /home/ajender/Hello/hello /home/ajender/try/root/
-umount /home/ajender/try/
+#rm /home/ajender/Hello/can_pci
+#$compiler_path/arm-buildroot-linux-gnueabi-gcc-11.4.0  /home/ajender/vm_workspace/QemuV1/Hello/can_pci.c -o /home/ajender/Hello/can_pci
+#$compiler_path/arm-buildroot-linux-uclibcgnueabi-gcc-8.3.0 /home/ajender/vm_workspace/QemuV1/Hello/can_pci.c -o /home/ajender/Hello/can_pci
+cd /home/ajender/vm_workspace/QemuV1/Hello/basic_can/
+make
+cd /home/ajender/vm_workspace/QemuV1/Hello/example/
+make
+sudo mount -t ext2 -o rw,loop /home/ajender/vm_workspace/QemuV1/Output/rootfs.ext2 /home/ajender/vm_workspace/QemuV1/try/
+sudo rm /home/ajender/vm_workspace/QemuV1/try/root/can_pci.ko
+sudo cp /home/ajender/vm_workspace/QemuV1/Hello/basic_can/can_pci.ko /home/ajender/vm_workspace/QemuV1/try/root/
+sudo cp /home/ajender/vm_workspace/QemuV1/Hello/example/send /home/ajender/vm_workspace/QemuV1/try/root/
+sudo cp /home/ajender/vm_workspace/QemuV1/Hello/basic_can/char_driver.ko /home/ajender/vm_workspace/QemuV1/try/root/
+sudo cp /home/ajender/vm_workspace/QemuV1/Hello/basic_can/load /home/ajender/vm_workspace/QemuV1/try/root/
+sudo cp /home/ajender/vm_workspace/QemuV1/Hello/example/simple_char /home/ajender/vm_workspace/QemuV1/try/root/
+sudo umount /home/ajender/vm_workspace/QemuV1/try/
+
+# cd /home/ajender/Hello/basic_can/
+# make
+# sudo mount -t ext2 -o rw,loop /home/ajender/Output/rootfs.ext2 /home/ajender/try/
+# sudo cp /home/ajender/Hello/basic_can/can_pci.ko /home/ajender/try/root/
+# sudo umount /home/ajender/try/
