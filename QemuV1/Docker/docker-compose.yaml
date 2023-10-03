@@ -10,3 +10,4 @@ services:
     volumes:
     - ../:/home/ajender
     privileged: true
+    network_mode: host
