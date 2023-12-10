@@ -22,15 +22,18 @@ RUN apt-get  install -y ninja-build && \
     apt-get  install -y libpixman-1-0 && \
     apt-get install -y libpixman-1-dev && \
     apt-get install -y flex && \
-    apt-get install -y bison
-    
+    apt-get install -y bison && \
+    apt-get install -y git
+
+#RUN useradd -m john && echo "ajender:ajender" | chpasswd && adduser ajender sudo
+USER root
 
 # Set Python 3.8 as the default
 
-RUN useradd -ms /bin/bash ajender
+#RUN useradd -ms /bin/bash ajender
 
 # Set the working directory inside the container
-USER ajender
+#USER ajender
 WORKDIR /home/ajender
 
 

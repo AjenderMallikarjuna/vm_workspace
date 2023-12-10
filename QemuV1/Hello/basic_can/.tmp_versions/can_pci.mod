@@ -1,0 +1,3 @@
+/home/ajender/vm_workspace/QemuV1/Hello/basic_can/can_pci.ko
+/home/ajender/vm_workspace/QemuV1/Hello/basic_can/can_pci.o
+
