@@ -71,7 +71,7 @@ buildroot login: root
 ```
 ### inside the Guest system load required can_pci driver
 ```
-insmod can_pci.ko
+./load
 ```
 
 ### launch ecu1 application
