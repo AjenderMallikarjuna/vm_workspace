@@ -2,7 +2,7 @@
 
 ## Overview
 
-As automotive systems become more complex, the demand for rapid and continuous testing is critical. This master's project explores the use of emulation as a solution for frequent validation in a flexible virtual environment.
+As automotive systems become more complex, the demand for rapid and continuous testing is critical. This project explores the use of emulation as a solution for frequent validation in a flexible virtual environment.
 
 The system utilizes QEMU and Buildroot to replicate CAN bus communications between electronic control units (ECUs). It is centered around an emulated Versatile PB board with a custom CAN bus driver interfacing with simulated Kvaser PCI and SJA1000 hardware models.
 
